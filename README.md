@@ -1,5 +1,5 @@
 # Fitness App
-## This project helps you to track you're job application process by adding jobs applied    
+## This project helps you stay on track with your fitness goals by providing personalized workouts and progress tracking.
 ### Features    
 #### - Save, search, and delete workouts 
 #### - Automatically tracks your progress over time (with adjustable time ranges)
